@@ -19,6 +19,8 @@
 
 <br/> 6. Untuk penyelesaian soal tersebut, Disini saya menggunakan rumus (t=s/v). Denga hasil sebagai berikut. 
 
+![PicsArt_10-31-12 35 52](https://user-images.githubusercontent.com/57000408/67921747-54c33680-fbdb-11e9-8342-ac52b7b6800e.jpg)
+
 <br/>
 <br/>
 <br/>
