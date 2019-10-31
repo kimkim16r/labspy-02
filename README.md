@@ -1,9 +1,8 @@
 # labspy-02
-<br/> Nama    : Rahman Hakim
-<br/> Nim     : 311910213    
-<br/> Kelas   : TI.19.D.1
-<br/> Matkul  : B. Pemprograman
-<br/> Tugas   : Tugas Ke 2
+<br/> Nama  : Rahman Hakim
+<br/> Kelas : TI.19.D.1
+<br/> Matkul: B. Pemprograman
+<br/> Tugas : Tugas Ke 2
 <br/>
 <br/> #penjelas
 <br/> 
