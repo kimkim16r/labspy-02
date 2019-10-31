@@ -1,0 +1,26 @@
+print ("soal 1")
+
+print ("Ade 3 sepedah motor , masing-masing memiliki kecepatan yang berbeda,")
+print ("Motor A melaju dengan kecepatan 50 km/jam, motor B melaju dengan keceptan 60 km/jam dan motor C melaju dengan kecepatan 40 km/jam.")
+print ("Berapakah waktu yang harus di tempuh masing -masing motor dalam jarak tempuh 90 km ??")
+
+
+def jawab ():
+    A= eval(input("masukan kecepatan motor A km/jam:"))
+    B= eval(input("masukan kecepatan motor B km/jam:"))
+    C= eval(input("masukan kecepatan motor C km/jam:"))
+    D= eval(input("masukan jarak yang harus di tempuh masing-masing motor dalm km:"))
+    print("==================================================")
+    print("Rumus untuk menghitung Waktu tempuh ( t=s/v) dalam jam")
+    print(" t = Waktu")
+    print(" s = jarak yang di  tempuh")
+    print(" v = kecepatan")
+    print("==================================================")
+    
+    hasil= D/A
+    print("hasil pembagian %f dan %f adalah %f" %(D,A,hasil))
+    hasil= D/B
+    print("hasil pembagian %f dan %f adalah %f" %(D,B,hasil))
+    hasil= D/C
+    print("hasil pembagian %f dan %f adalah %f" %(D,C,hasil))
+    print("==================================================")
