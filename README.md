@@ -36,5 +36,6 @@
 ![Screenshot (29)](https://user-images.githubusercontent.com/57000408/67939392-08402100-fc04-11e9-8e3d-34ca1b2068f3.png)
 <br/> •Dan apa bila perbandingan kedua tersebut berniai "false", maka bilangan ke tiga (D/C) yang akan di cetak. 
 ![PicsArt_10-31-05 45 22](https://user-images.githubusercontent.com/57000408/67942479-80114a00-fc0a-11e9-8e42-d832be5e9c88.png)
-
+<br/>
+<br/>flowchart
 
