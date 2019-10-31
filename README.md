@@ -8,7 +8,7 @@
 <br/> 
 <br/> 1. Disini saya membuat soal untuk study kasus.  
 <br/> 2. Buat soal sesuai ke inginan kita,tentunya di sesuaikan dengan tugas yang di berikan oleh Dosen kita.
-<br/>    Perbandingan menggunakan statement If, Elif and Else. 
+<br/>    Yaitu perbandingan menggunakan statement If, Elif and Else. 
 <br/>    Contoh soal:
 ![PicsArt_10-31-10 49 11](https://user-images.githubusercontent.com/57000408/67919164-d2824480-fbd1-11e9-9b55-b79b8455de07.jpg)
 
