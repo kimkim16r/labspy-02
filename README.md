@@ -29,6 +29,5 @@
 
 <br/>
 <br/> #program. 
-![Screenshot (26)](https://user-images.githubusercontent.com/57000408/67924872-4decf180-fbe4-11e9-8677-b25855b0c76b.png)
 
 <br/> #
