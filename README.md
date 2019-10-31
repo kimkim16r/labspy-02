@@ -27,7 +27,8 @@
 <br/> 7. Dan di bagain akhir saya menggunakan statemnet Perbandingan If, Elif and Else. Untuk mengetahui jawaban yang di dapat dari soal tersebut. <br/>
 ![PicsArt_10-31-01 28 13](https://user-images.githubusercontent.com/57000408/67924211-94d9e780-fbe2-11e9-82b4-903c98220e16.png)
 
-<br/>![Screenshot (26)](https://user-images.githubusercontent.com/57000408/67938734-a92ddc80-fc02-11e9-9f18-d17b627fda51.png)
+<br/> #program
+![Screenshot (26)](https://user-images.githubusercontent.com/57000408/67938734-a92ddc80-fc02-11e9-9f18-d17b627fda51.png)
 
 <br/>
 
