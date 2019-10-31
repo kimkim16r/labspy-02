@@ -15,8 +15,6 @@
 ![PicsArt_10-31-11 36 47](https://user-images.githubusercontent.com/57000408/67919420-d2367900-fbd2-11e9-9ba4-58d2f0abfa1d.jpg)
 
 <br/> 4. Masukan bilangan yang sudah diketahui .
-![PicsArt_10-31-12 05 10](https://user-images.githubusercontent.com/57000408/67920443-d795c280-fbd6-11e9-9fb7-063a2897c878.jpg)
-
 <br/>
 <br/>
 <br/>
