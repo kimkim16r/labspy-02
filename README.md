@@ -9,7 +9,7 @@
 <br/> 
 <br/> 1. Disini saya membuat soal untuk study kasus.  
 <br/> 2. Buat soal sesuai ke inginan kita,tentunya di sesuaikan dengan tugas yang di berikan oleh Dosen kita.
-<br/>    Yaitu perbandingan menggunakan statement If, Elif and Else. 
+<br/>    Yaitu berhubungan dengan perbandingan menggunakan statement If, Elif and Else. 
 <br/>    Contoh soal:
 ![PicsArt_10-31-10 49 11](https://user-images.githubusercontent.com/57000408/67919164-d2824480-fbd1-11e9-9b55-b79b8455de07.jpg)
 
@@ -30,6 +30,7 @@
 <br/> #program
 ![Screenshot (26)](https://user-images.githubusercontent.com/57000408/67938734-a92ddc80-fc02-11e9-9f18-d17b627fda51.png)
 
-<br/>![Screenshot (29)](https://user-images.githubusercontent.com/57000408/67939392-08402100-fc04-11e9-8e3d-34ca1b2068f3.png)
+<br/>#
+![Screenshot (29)](https://user-images.githubusercontent.com/57000408/67939392-08402100-fc04-11e9-8e3d-34ca1b2068f3.png)
 
 
