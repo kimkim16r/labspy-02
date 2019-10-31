@@ -30,11 +30,11 @@
 <br/> #program
 ![Screenshot (26)](https://user-images.githubusercontent.com/57000408/67938734-a92ddc80-fc02-11e9-9f18-d17b627fda51.png)
 
-<br/> Jadi, jika bilangan pertama (D/A), di bandingkan dengan bilangan ke dua (D/C), dan di bandingkan dengan bilangan ke tiga (D/C), jika hasil menyatakan "false" maka bilangan pertama (D/A) yang akan di cetak.
+<br/> Jadi, jika bilangan pertama (D/A), di bandingkan dengan bilangan ke dua (D/C), dan di bandingkan dengan bilangan ke tiga (D/C), jika hasil menyatakan "true" maka bilangan pertama (D/A) yang akan di cetak.
  
-<br/> Bandingkan kembali , jika bilangan ke dua (D/B), di bandingkan dengan bilangan pertama dan ketiga (D/A) dan (D/C), jika hasilnya menyatakan "false" maka bilangan kedua (D/B) yang akan di cetak. 
+<br/> Bandingkan kembali , jika bilangan ke dua (D/B), di bandingkan dengan bilangan pertama dan ketiga (D/A) dan (D/C), jika hasilnya menyatakan "true" maka bilangan kedua (D/B) yang akan di cetak. 
 ![Screenshot (29)](https://user-images.githubusercontent.com/57000408/67939392-08402100-fc04-11e9-8e3d-34ca1b2068f3.png)
-<br/> Dan apa bila perbandingan kedua teraebut berniai "true", maka bilangan ke tiga yang akan di cetak. 
+<br/> Dan apa bila perbandingan kedua teraebut berniai "false", maka bilangan ke tiga yang akan di cetak. 
 ![PicsArt_10-31-05 45 22](https://user-images.githubusercontent.com/57000408/67942479-80114a00-fc0a-11e9-8e42-d832be5e9c88.png)
 
 
