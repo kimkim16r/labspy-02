@@ -28,6 +28,5 @@
 ![PicsArt_10-31-01 28 13](https://user-images.githubusercontent.com/57000408/67924211-94d9e780-fbe2-11e9-82b4-903c98220e16.png)
 
 <br/>
-<br/> #program. 
-<br/>![Screenshot (26)](https://user-images.githubusercontent.com/57000408/67925026-b4720f80-fbe4-11e9-8e5f-1792ff4eecce.png)
+<br/> # program.
 
